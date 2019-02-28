@@ -1,0 +1,41 @@
+2019-02-26 09:48:12,127 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2019-02-26 09:49:33,703 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2019-02-26 09:50:14,286 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2019-02-26 09:50:45,157 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:captcha_code
+2019-02-26 09:51:10,730 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register-btn
+2019-02-26 09:51:12,283 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:captcha_code-error
+2019-02-26 09:52:21,104 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2019-02-26 09:52:22,509 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2019-02-26 09:52:23,039 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2019-02-26 09:52:23,365 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:captcha_code
+2019-02-26 09:52:23,480 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register-btn
+2019-02-26 09:52:24,529 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:captcha_code-error
+2019-02-26 17:34:53,381 first_case.py--> setUp 20: INFO ----->this is chrome!!!
+2019-02-26 17:34:53,430 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：12221@qq.com
+2019-02-26 17:34:53,503 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2019-02-26 17:34:54,229 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：2321
+2019-02-26 17:34:54,229 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2019-02-26 17:34:54,914 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2019-02-26 17:34:54,914 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2019-02-26 17:34:59,066 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:captcha_code
+2019-02-26 17:34:59,150 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register-btn
+2019-02-26 17:35:13,506 first_case.py--> setUp 20: INFO ----->this is chrome!!!
+2019-02-26 17:35:13,509 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1314@qq.com
+2019-02-26 17:35:13,509 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2019-02-26 17:35:13,663 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user1111@qq.com
+2019-02-26 17:35:13,664 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2019-02-26 17:35:14,272 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2019-02-26 17:35:14,273 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2019-02-26 17:35:17,318 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:captcha_code
+2019-02-26 17:35:17,392 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register-btn
+2019-02-26 17:35:18,167 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:captcha_code
+2019-02-26 17:35:20,696 first_case.py--> setUp 20: INFO ----->this is chrome!!!
+2019-02-26 17:35:20,697 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：12123@qq.com
+2019-02-26 17:35:20,698 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2019-02-26 17:35:20,831 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：t1
+2019-02-26 17:35:20,831 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2019-02-26 17:35:21,039 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2019-02-26 17:35:21,039 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2019-02-26 17:35:26,693 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:captcha_code
+2019-02-26 17:35:26,808 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register-btn
+2019-02-26 17:35:27,417 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname-error

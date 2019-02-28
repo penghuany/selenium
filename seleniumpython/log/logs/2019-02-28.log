@@ -1,0 +1,41 @@
+2019-02-28 10:32:06,344 first_case.py--> setUp 20: INFO ----->this is chrome!!!
+2019-02-28 10:32:06,371 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：19
+2019-02-28 10:32:06,415 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2019-02-28 10:32:07,301 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user1111
+2019-02-28 10:32:07,302 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2019-02-28 10:32:07,529 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2019-02-28 10:32:07,529 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2019-02-28 10:32:07,947 register_handle.py--> send_user_code 20: INFO ----->huoqu yanzhengma qian ：
+2019-02-28 10:32:11,148 get_code.py--> code_online 20: INFO ----->--code_online--
+2019-02-28 10:32:13,838 first_case.py--> setUp 20: INFO ----->this is chrome!!!
+2019-02-28 10:32:13,838 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1212003@qq.com
+2019-02-28 10:32:13,839 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2019-02-28 10:32:14,059 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：t3
+2019-02-28 10:32:14,059 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2019-02-28 10:32:14,276 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2019-02-28 10:32:14,278 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2019-02-28 10:32:14,354 register_handle.py--> send_user_code 20: INFO ----->huoqu yanzhengma qian ：
+2019-02-28 10:32:17,062 get_code.py--> code_online 20: INFO ----->--code_online--
+2019-02-28 10:37:24,805 first_case.py--> setUp 20: INFO ----->this is chrome!!!
+2019-02-28 10:37:24,808 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：19
+2019-02-28 10:37:24,809 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2019-02-28 10:37:24,894 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user1111
+2019-02-28 10:37:24,895 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2019-02-28 10:37:24,993 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2019-02-28 10:37:24,993 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2019-02-28 10:37:25,253 register_handle.py--> send_user_code 20: INFO ----->huoqu yanzhengma qian ：
+2019-02-28 10:37:27,986 get_code.py--> code_online 20: INFO ----->--code_online--
+2019-02-28 10:37:27,986 get_code.py--> code_online 20: INFO ----->--code---cz5t4
+2019-02-28 10:37:27,987 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:captcha_code
+2019-02-28 10:37:28,066 register_handle.py--> send_user_code 20: INFO ----->huoqu yanz ma hou 
+2019-02-28 10:37:28,068 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register-btn
+2019-02-28 10:37:28,796 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:captcha_code
+2019-02-28 10:37:31,430 first_case.py--> setUp 20: INFO ----->this is chrome!!!
+2019-02-28 10:37:31,433 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1212003@qq.com
+2019-02-28 10:37:31,434 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2019-02-28 10:37:31,528 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：t3
+2019-02-28 10:37:31,529 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2019-02-28 10:37:31,996 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2019-02-28 10:37:31,996 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2019-02-28 10:37:32,167 register_handle.py--> send_user_code 20: INFO ----->huoqu yanzhengma qian ：
+2019-02-28 10:37:34,783 get_code.py--> code_online 20: INFO ----->--code_online--
